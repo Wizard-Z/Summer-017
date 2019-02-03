@@ -1,0 +1,309 @@
+Mesa	Toys	591139.41
+Mesa	Men's Clothing	575801.4200000003
+Mesa	Women's Clothing	572868.27
+Reno	CDs	578683.1299999998
+Reno	Women's Clothing	574547.56
+Reno	Pet Supplies	570200.9499999998
+Boise	Crafts	591205.25
+Boise	Men's Clothing	585786.8200000001
+Boise	Garden	582684.1799999998
+Miami	Cameras	572410.7799999999
+Miami	Computers	569512.3399999999
+Miami	Health and Beauty	563405.9299999997
+Omaha	Sporting Goods	597021.31
+Omaha	Children's Clothing	571331.5199999999
+Omaha	Baby	566837.4
+Plano	Music	582237.0699999998
+Plano	Children's Clothing	581757.2799999999
+Plano	CDs	571956.6299999999
+Tampa	DVDs	593299.0999999999
+Tampa	Women's Clothing	579999.7799999998
+Tampa	Health and Beauty	573476.61
+Tulsa	Music	575289.5099999998
+Tulsa	Video Games	575092.1799999999
+Tulsa	Garden	572994.63
+Aurora	Toys	573050.5400000002
+Aurora	Video Games	566665.0399999999
+Aurora	Children's Clothing	566000.6599999999
+Austin	Baby	585991.8300000001
+Austin	DVDs	584048.2899999999
+Austin	Garden	582794.6500000001
+Boston	Men's Clothing	583366.2500000001
+Boston	Books	573805.2400000002
+Boston	Crafts	572451.8800000001
+Dallas	CDs	593825.12
+Dallas	Pet Supplies	574072.5
+Dallas	Music	571681.1899999998
+Denver	Computers	582945.8100000002
+Denver	Men's Clothing	573702.6199999999
+Denver	Children's Clothing	570182.27
+Durham	DVDs	593258.2999999998
+Durham	Sporting Goods	586403.71
+Durham	Books	579118.8999999999
+Fresno	Music	580202.0600000002
+Fresno	CDs	576945.08
+Fresno	DVDs	570800.51
+Irvine	Consumer Electronics	583079.7399999999
+Irvine	Pet Supplies	579328.4600000001
+Irvine	Video Games	572866.4300000002
+Irving	Toys	587674.7499999999
+Irving	DVDs	581697.27
+Irving	Consumer Electronics	576266.79
+Laredo	Video Games	589975.4000000001
+Laredo	Music	586614.3
+Laredo	CDs	579131.6499999998
+Newark	Women's Clothing	582266.39
+Newark	Garden	581622.13
+Newark	DVDs	578714.8599999999
+Toledo	Video Games	576339.1999999998
+Toledo	Health and Beauty	570994.0300000001
+Toledo	Books	568391.7800000001
+Tucson	DVDs	572861.1000000001
+Tucson	Pet Supplies	568716.0800000001
+Tucson	Sporting Goods	568153.9099999999
+Anaheim	Music	582258.7599999997
+Anaheim	Toys	579332.8700000001
+Anaheim	Books	573009.6000000001
+Atlanta	Garden	578389.73
+Atlanta	Women's Clothing	577294.06
+Atlanta	Music	571669.7400000001
+Buffalo	DVDs	585154.9599999996
+Buffalo	Children's Clothing	578793.23
+Buffalo	Crafts	576142.5900000001
+Chicago	Men's Clothing	583207.4299999999
+Chicago	Crafts	576452.52
+Chicago	Women's Clothing	572575.4999999999
+Detroit	Baby	581837.6000000001
+Detroit	Cameras	573972.3800000001
+Detroit	Video Games	573670.13
+El Paso	Cameras	581664.08
+El Paso	Consumer Electronics	580190.0700000001
+El Paso	Toys	578149.29
+Fremont	Health and Beauty	574572.4499999998
+Fremont	Consumer Electronics	572569.42
+Fremont	Toys	571264.84
+Garland	Books	583027.9199999998
+Garland	Women's Clothing	579604.0799999998
+Garland	Crafts	572377.68
+Gilbert	Women's Clothing	579613.3400000002
+Gilbert	Books	575693.8199999998
+Gilbert	Video Games	572582.3399999999
+Hialeah	CDs	583973.44
+Hialeah	DVDs	577893.79
+Hialeah	Computers	575851.9999999999
+Houston	Men's Clothing	575703.7199999999
+Houston	Children's Clothing	569262.8299999997
+Houston	Crafts	566313.99
+Lincoln	Books	580395.7299999999
+Lincoln	Children's Clothing	579082.24
+Lincoln	CDs	574979.4399999998
+Lubbock	Children's Clothing	573323.5800000001
+Lubbock	Sporting Goods	564745.7300000001
+Lubbock	Men's Clothing	563259.0100000002
+Madison	Music	581608.74
+Madison	Sporting Goods	575333.3300000001
+Madison	Children's Clothing	573118.3600000001
+Memphis	Baby	576262.4099999997
+Memphis	Consumer Electronics	570095.5
+Memphis	Children's Clothing	569838.58
+Norfolk	Cameras	579674.2500000001
+Norfolk	Consumer Electronics	578026.7899999999
+Norfolk	Crafts	573768.23
+Oakland	Men's Clothing	573506.34
+Oakland	Music	568595.36
+Oakland	Consumer Electronics	564934.69
+Orlando	Computers	584055.46
+Orlando	Cameras	577227.4299999998
+Orlando	Video Games	573175.9299999999
+Phoenix	Children's Clothing	598207.68
+Phoenix	Garden	576118.61
+Phoenix	Cameras	573451.1199999999
+Raleigh	Sporting Goods	580829.13
+Raleigh	DVDs	574831.5900000001
+Raleigh	Baby	574790.1499999999
+Seattle	Health and Beauty	584975.5800000002
+Seattle	Sporting Goods	573323.1199999999
+Seattle	CDs	571115.4299999999
+Spokane	Women's Clothing	587202.79
+Spokane	Children's Clothing	581353.5900000001
+Spokane	Health and Beauty	581101.5199999999
+Wichita	CDs	587427.04
+Wichita	Toys	581513.0799999998
+Wichita	Books	575898.78
+Chandler	Toys	569292.9900000002
+Chandler	DVDs	566320.5900000002
+Chandler	Crafts	561205.83
+Columbus	Health and Beauty	576883.0499999999
+Columbus	Video Games	575788.94
+Columbus	Computers	569591.4800000001
+Glendale	DVDs	579090.1600000001
+Glendale	Video Games	568147.6100000001
+Glendale	Consumer Electronics	568124.2499999999
+Honolulu	Toys	579084.76
+Honolulu	Music	576221.8900000002
+Honolulu	Baby	574444.7
+New York	DVDs	592393.1900000001
+New York	CDs	575859.4699999999
+New York	Sporting Goods	575753.9299999998
+Portland	Books	570346.8300000001
+Portland	DVDs	569972.1399999999
+Portland	Toys	569657.4900000001
+Richmond	Music	581773.5399999998
+Richmond	Baby	574139.03
+Richmond	Health and Beauty	570608.17
+San Jose	CDs	586499.67
+San Jose	Video Games	573047.9199999999
+San Jose	DVDs	569417.1900000001
+Stockton	Health and Beauty	577786.35
+Stockton	Garden	571318.82
+Stockton	CDs	569572.19
+Anchorage	Baby	582424.49
+Anchorage	Women's Clothing	569277.13
+Anchorage	Cameras	565648.3799999998
+Arlington	Video Games	589641.7799999999
+Arlington	Pet Supplies	577449.7999999998
+Arlington	Health and Beauty	574956.7300000001
+Baltimore	Video Games	579647.7199999999
+Baltimore	Computers	578531.42
+Baltimore	Women's Clothing	577584.9200000002
+Charlotte	Pet Supplies	578790.24
+Charlotte	Women's Clothing	576405.19
+Charlotte	Baby	575057.3700000001
+Cleveland	Children's Clothing	588268.4899999999
+Cleveland	Baby	581082.1999999998
+Cleveland	Garden	574313.6400000001
+Henderson	Children's Clothing	582336.2899999998
+Henderson	Baby	581941.0499999998
+Henderson	Consumer Electronics	571419.9899999999
+Las Vegas	Toys	577027.4400000001
+Las Vegas	Men's Clothing	576799.6699999998
+Las Vegas	Women's Clothing	574094.9799999999
+Lexington	Consumer Electronics	577941.9499999998
+Lexington	DVDs	575654.13
+Lexington	Men's Clothing	573065.81
+Milwaukee	Computers	579109.1500000001
+Milwaukee	Toys	578834.56
+Milwaukee	Children's Clothing	568375.2699999998
+Nashville	Music	586214.2999999998
+Nashville	Consumer Electronics	570974.19
+Nashville	CDs	565211.98
+Riverside	Crafts	580443.17
+Riverside	Video Games	579177.9199999998
+Riverside	Children's Clothing	572979.71
+Rochester	Computers	577057.9500000001
+Rochester	Video Games	572735.25
+Rochester	Cameras	572643.1799999997
+San Diego	Men's Clothing	580012.3500000001
+San Diego	Computers	571435.3399999996
+San Diego	Toys	570269.21
+Santa Ana	Music	595318.7999999999
+Santa Ana	CDs	580647.76
+Santa Ana	Cameras	573808.1100000002
+St. Louis	Pet Supplies	582845.32
+St. Louis	Computers	573947.5299999999
+St. Louis	Women's Clothing	573480.1900000002
+Birmingham	Sporting Goods	578601.78
+Birmingham	Pet Supplies	578423.06
+Birmingham	Computers	577197.59
+Chesapeake	Computers	580986.83
+Chesapeake	CDs	579290.1300000001
+Chesapeake	Men's Clothing	574134.5100000001
+Cincinnati	Toys	597884.3400000001
+Cincinnati	Consumer Electronics	585448.9099999999
+Cincinnati	CDs	577837.9099999998
+Fort Wayne	Men's Clothing	582302.03
+Fort Wayne	Consumer Electronics	581022.3400000002
+Fort Wayne	Garden	579055.9199999998
+Fort Worth	Pet Supplies	594698.3999999998
+Fort Worth	Toys	590021.57
+Fort Worth	Garden	587292.21
+Greensboro	Video Games	576377.2600000002
+Greensboro	Computers	574168.1799999999
+Greensboro	Cameras	572417.85
+Long Beach	Garden	582364.8200000001
+Long Beach	Pet Supplies	570094.3200000001
+Long Beach	Video Games	568537.4900000001
+Louisville	Video Games	580962.73
+Louisville	Computers	574471.5399999998
+Louisville	Baby	572974.9099999999
+Pittsburgh	Books	583766.37
+Pittsburgh	Crafts	583442.2799999999
+Pittsburgh	CDs	579264.9199999999
+Sacramento	Music	576862.3599999999
+Sacramento	Women's Clothing	573438.18
+Sacramento	Consumer Electronics	573133.8499999999
+Saint Paul	Health and Beauty	576360.6599999998
+Saint Paul	Children's Clothing	574122.6600000001
+Saint Paul	Computers	573613.37
+Scottsdale	Children's Clothing	589424.11
+Scottsdale	Toys	576535.7600000002
+Scottsdale	Consumer Electronics	573862.4899999999
+Washington	CDs	587423.01
+Washington	Consumer Electronics	586495.19
+Washington	Crafts	585438.5399999999
+Albuquerque	Children's Clothing	579902.0999999999
+Albuquerque	Sporting Goods	574477.2499999999
+Albuquerque	Health and Beauty	572249.0800000001
+Bakersfield	Video Games	582554.84
+Bakersfield	Toys	577685.6099999999
+Bakersfield	Children's Clothing	574959.1799999999
+Baton Rouge	Health and Beauty	582348.8099999998
+Baton Rouge	DVDs	577792.6799999999
+Baton Rouge	CDs	576123.1
+Chula Vista	Men's Clothing	578946.49
+Chula Vista	Computers	568935.51
+Chula Vista	Toys	568436.1599999998
+Jersey City	Garden	588898.94
+Jersey City	Men's Clothing	572969.98
+Jersey City	Health and Beauty	565370.13
+Kansas City	Books	582097.9199999999
+Kansas City	DVDs	570742.85
+Kansas City	Men's Clothing	568279.52
+Los Angeles	Video Games	579165.68
+Los Angeles	Sporting Goods	575902.4799999999
+Los Angeles	Garden	574743.7099999998
+Minneapolis	Sporting Goods	570654.18
+Minneapolis	Pet Supplies	570170.1300000002
+Minneapolis	Video Games	569230.3199999998
+New Orleans	Sporting Goods	580495.63
+New Orleans	Cameras	574820.6900000001
+New Orleans	Children's Clothing	569670.92
+San Antonio	Cameras	586126.6200000002
+San Antonio	Toys	572062.7099999998
+San Antonio	Video Games	567535.4900000002
+Indianapolis	Men's Clothing	599321.87
+Indianapolis	Books	582742.7299999999
+Indianapolis	CDs	572676.8100000002
+Jacksonville	Sporting Goods	583145.0300000003
+Jacksonville	Women's Clothing	578565.36
+Jacksonville	Consumer Electronics	575622.36
+Philadelphia	Baby	594293.3
+Philadelphia	Music	582448.8199999998
+Philadelphia	Video Games	580523.8300000001
+Oklahoma City	CDs	572983.0799999998
+Oklahoma City	Garden	572536.8000000002
+Oklahoma City	Consumer Electronics	569804.0600000002
+San Francisco	Health and Beauty	571250.8599999996
+San Francisco	DVDs	568633.1000000003
+San Francisco	Men's Clothing	565414.3600000001
+Corpus Christi	Baby	577995.21
+Corpus Christi	Cameras	575697.9900000001
+Corpus Christi	Men's Clothing	571594.9199999999
+San Bernardino	Garden	570659.6700000002
+San Bernardino	Men's Clothing	568396.3299999997
+San Bernardino	Crafts	567209.9900000001
+St. Petersburg	Sporting Goods	604041.5399999998
+St. Petersburg	Cameras	587683.51
+St. Petersburg	Toys	569537.2299999999
+Virginia Beach	Children's Clothing	590931.82
+Virginia Beach	Health and Beauty	581053.17
+Virginia Beach	Sporting Goods	578397.6899999998
+North Las Vegas	Consumer Electronics	576064.82
+North Las Vegas	Computers	573395.4000000001
+North Las Vegas	Crafts	570371.7200000002
+Winston–Salem	Consumer Electronics	583901.1300000001
+Winston–Salem	Pet Supplies	583362.3000000002
+Winston–Salem	DVDs	581524.5000000001
+Colorado Springs	Women's Clothing	576907.2699999999
+Colorado Springs	Books	570020.8099999999
+Colorado Springs	Sporting Goods	569309.9899999999
