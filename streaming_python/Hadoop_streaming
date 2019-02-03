@@ -1,0 +1,7 @@
+hadoop streaming commands:
+
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.2.jar -mapper mapper_log.py -reducer reducer_mostpop.py -file mapper_log.py -file reducer_mostpop.py -input /new -output /outip
+
+locating jar for streaming using grep command:
+locate hadoop-streaming | grep jar
+
